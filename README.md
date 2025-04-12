@@ -1,1 +1,2 @@
-# Snake-Game Play and Enjoy 🐍
+# Snake-Game 🐍
+# Play and Enjoy 
